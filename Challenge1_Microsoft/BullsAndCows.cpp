@@ -38,7 +38,7 @@ using namespace std;
     }
 
     int main(){
-        string s="1807",g="7810";
+        string s="1807",g="7801";
         cout<<getHint(s,g);
         return 0;
     }
